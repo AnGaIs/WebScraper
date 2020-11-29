@@ -12,5 +12,5 @@ $ cd bot-webscraper; npm install
 $ npm start
 ```
 
-<img src="https://github.com/AnGaIs/FrontDashBoard/blob/master/screens/dash.png" width="900" alt=""/>
+
 
